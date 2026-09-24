@@ -1,4 +1,6 @@
 ---
+genres:
+  - simulation
 post: https://idkwhatt0callthis.blogspot.com/2024/09/raytracing-187500-voxels-in-browser.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
